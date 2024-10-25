@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "Custom",
+            "address": "http://185.221.20.77:6969"
+        }
+    ]
+}
